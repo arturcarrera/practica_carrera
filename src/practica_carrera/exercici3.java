@@ -16,9 +16,18 @@ public class exercici3 {
 		printOne();
 	}
 
+
 public static void printThree() {
 		System.out.println("Hello World");
 	}
 
 	
+
+	
+	public static void printFour() {
+		System.out.println("Hello World");
+	}
+
+
+
 }
